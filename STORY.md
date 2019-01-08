@@ -7,6 +7,8 @@
 
   * I should be able to deploy to systems with limited memory
 
+  * I should not have to punch a bunch of holes in the firewall to support the workers
+
 * As an application developer I expect to be the end user of this CI system.
 
   * I should be able to use one instance of the CI system to manage multiple branches within a project as well as multiple projects.
@@ -16,6 +18,10 @@
   * I should be able to integate the CI system with all of the other tools I use via common conventions like webhooks
 
   * I should be able to validate and test my build scripts with ease.
+
+* As an outsider
+
+  * I should be able to implement the CI system protocols by reading the documentation and specifications.
 
 * As a human being
 
