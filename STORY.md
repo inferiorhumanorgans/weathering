@@ -24,3 +24,7 @@
   * I expect that the CI system should get out of my way and not need a lot of attention once it's been setup.
 
   * I should not have to install a multitude of languages and tools to get the CI system installed and running.
+
+  * I should be able to understand the configuration files without learning an obscure syntax.
+
+  * I should be able to take advantage of code as configuration (jobs and CI system itself) if I really want to.
